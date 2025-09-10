@@ -1,0 +1,22 @@
+{
+  "app_title": "متجر إلكتروني",
+  "onboard_title_1": "تسوق بسهولة",
+  "onboard_subtitle_1": "ابحث عن المنتجات المفضلة لديك بأسلوب سريع وسهل",
+  "onboard_title_2": "أفضل العروض",
+  "onboard_subtitle_2": "احصل على خصومات مذهلة على منتجاتك المفضلة",
+  "onboard_title_3": "توصيل سريع",
+  "onboard_subtitle_3": "استلم طلبك في أسرع وقت ممكن",
+  "next": "التالي",
+  "get_started": "ابدأ الآن",
+  "skip": "تخطي",
+  "login": "تسجيل الدخول",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "dont_have_account": "ليس لديك حساب؟",
+  "sign_up": "إنشاء حساب",
+  "welcome_back": "مرحباً بعودتك",
+  "login_subtitle": "سجل دخولك للمتابعة",
+  "home": "الرئيسية",
+  "firebase_initialized": "تم تهيئة Firebase"
+}

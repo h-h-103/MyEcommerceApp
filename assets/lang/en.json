@@ -1,0 +1,22 @@
+{
+  "app_title": "E-Commerce App",
+  "onboard_title_1": "Easy Shopping",
+  "onboard_subtitle_1": "Find your favorite products quickly and easily",
+  "onboard_title_2": "Best Offers",
+  "onboard_subtitle_2": "Get amazing discounts on your favorite products",
+  "onboard_title_3": "Fast Delivery",
+  "onboard_subtitle_3": "Receive your order as fast as possible",
+  "next": "Next",
+  "get_started": "Get Started",
+  "skip": "Skip",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "forgot_password": "Forgot Password?",
+  "dont_have_account": "Don't have an account?",
+  "sign_up": "Sign Up",
+  "welcome_back": "Welcome Back",
+  "login_subtitle": "Login to continue",
+  "home": "Home",
+  "firebase_initialized": "Firebase Initialized"
+}

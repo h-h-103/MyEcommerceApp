@@ -1,0 +1,86 @@
+name: myecommerceapp
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.3.4
+  http: ^1.4.0
+  flutter_screenutil: ^5.9.0
+  easy_localization: ^3.0.5
+  google_fonts: ^6.1.0
+
+  # Firebase
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_storage: ^12.4.9
+  firebase_messaging: ^15.2.9
+  googleapis_auth: ^2.0.0
+  google_sign_in: ^6.2.2
+
+  # Notifications & Connectivity
+  flutter_local_notifications: ^19.3.1
+
+  # UI
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.0
+  smooth_page_indicator: ^1.2.0
+  image_picker: ^1.0.4
+  lottie: ^3.1.2
+  flutter_native_splash: ^2.4.6
+  awesome_dialog: ^3.2.1
+
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+  # Code Generation
+  build_runner: ^2.4.8
+  riverpod_generator: ^2.3.9
+
+flutter_native_splash:
+  android: true
+  ios: true
+
+  color: "#FFFFFF"
+  image: assets/images/splash.png
+  android_gravity: center # تملى الشاشة في أندرويد
+  ios_content_mode: scaleAspectFill # تملى الشاشة في iOS
+
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/splash.png
+    android_gravity: center
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/lang/
+    - assets/lottie/
+
+  # fonts:
+  #   - family: Cairo
+  #     fonts:
+  #       - asset: assets/fonts/Cairo-Regular.ttf
+  #       - asset: assets/fonts/Cairo-Bold.ttf
+  #         weight: 700
